@@ -13,6 +13,9 @@ build/
 ipch/
 *.user
 *.ncb
+.vs/
+projects/VS2015/Menge/log.html
+projects/VS2015/Menge/log.css
 # CLion files
 *.idea
 doc/output
